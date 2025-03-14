@@ -37,6 +37,9 @@ st.markdown(
 st.title("🍿 Movie Streaming Website")
 st.markdown("Upload and watch your favorite movies!")
 
+# Founder Credit
+st.sidebar.markdown("### 👨‍💻 Created by Kaustav Roy Chowdhury")
+
 # Sidebar for movie selection
 st.sidebar.header("Movie Library")
 
